@@ -1,4 +1,4 @@
-## Available Scripts
+## Movie App Project With React
 
 In the project directory, you can run:
 
